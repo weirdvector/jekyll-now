@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Full Stack Developer who's passionate about building testable, stable code. If you need to test it manually more than once, automate it! 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I live in Toronto with my wife and puppy.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you're interested in collaborating, please reach out:
+
+[contact@gregwood.io](mailto:contact@gregwood.io)
